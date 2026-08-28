@@ -1,0 +1,65 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Build loop</title>
+  <desc id="description">A six-stage loop from framing a problem through grounding, building, evaluation, shipping, and learning.</desc>
+  <defs>
+    <linearGradient id="line" x1="96" y1="115" x2="1100" y2="115" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F5FF"/>
+      <stop offset="0.54" stop-color="#F0F9FF"/>
+      <stop offset="1" stop-color="#F0FDFA"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748B"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="228" rx="20" fill="url(#panel)" stroke="#CBD5E1"/>
+  <text x="54" y="50" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">MY BUILD LOOP</text>
+  <text x="1090" y="50" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">evidence → behavior → useful product</text>
+
+  <path d="M128 117H1074" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1072 117C1127 117 1128 190 1053 190H146C71 190 73 117 126 117" stroke="#64748B" stroke-opacity="0.42" stroke-width="1.5" stroke-dasharray="5 6" marker-end="url(#arrow)"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(128 117)">
+      <circle r="24" fill="#FFFFFF" stroke="#8B5CF6" stroke-width="3"/>
+      <text y="5" fill="#6D28D9" font-size="14" font-weight="800">01</text>
+      <text y="51" fill="#334155" font-size="12" font-weight="800" letter-spacing="1">FRAME</text>
+      <text y="69" fill="#64748B" font-size="10">the real need</text>
+    </g>
+    <g transform="translate(317 117)">
+      <circle r="24" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3"/>
+      <text y="5" fill="#6D28D9" font-size="14" font-weight="800">02</text>
+      <text y="51" fill="#334155" font-size="12" font-weight="800" letter-spacing="1">GROUND</text>
+      <text y="69" fill="#64748B" font-size="10">data + evidence</text>
+    </g>
+    <g transform="translate(506 117)">
+      <circle r="24" fill="#FFFFFF" stroke="#0EA5E9" stroke-width="3"/>
+      <text y="5" fill="#0369A1" font-size="14" font-weight="800">03</text>
+      <text y="51" fill="#334155" font-size="12" font-weight="800" letter-spacing="1">BUILD</text>
+      <text y="69" fill="#64748B" font-size="10">model + system</text>
+    </g>
+    <g transform="translate(695 117)">
+      <circle r="24" fill="#FFFFFF" stroke="#0284C7" stroke-width="3"/>
+      <text y="5" fill="#0369A1" font-size="14" font-weight="800">04</text>
+      <text y="51" fill="#334155" font-size="12" font-weight="800" letter-spacing="1">EVALUATE</text>
+      <text y="69" fill="#64748B" font-size="10">behavior + failures</text>
+    </g>
+    <g transform="translate(884 117)">
+      <circle r="24" fill="#FFFFFF" stroke="#14B8A6" stroke-width="3"/>
+      <text y="5" fill="#0F766E" font-size="14" font-weight="800">05</text>
+      <text y="51" fill="#334155" font-size="12" font-weight="800" letter-spacing="1">SHIP</text>
+      <text y="69" fill="#64748B" font-size="10">dependable product</text>
+    </g>
+    <g transform="translate(1073 117)">
+      <circle r="24" fill="#FFFFFF" stroke="#0D9488" stroke-width="3"/>
+      <text y="5" fill="#0F766E" font-size="14" font-weight="800">06</text>
+      <text y="51" fill="#334155" font-size="12" font-weight="800" letter-spacing="1">LEARN</text>
+      <text y="69" fill="#64748B" font-size="10">from real use</text>
+    </g>
+  </g>
+</svg>
