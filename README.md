@@ -35,11 +35,11 @@ My work moves between **RAG and agentic AI**, **multimodal and computer-vision s
       <p><a href="https://answerleaf-ai-web-nine.vercel.app/">Live product ↗</a> · <a href="https://chinmaybitne.github.io/projects/answerleaf/">Case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🥗 <a href="https://github.com/ChinmayBitne/NutriAssist-AI">NutriAssist AI</a></h3>
-      <p><strong>Local-first multimodal nutrition assistant</strong></p>
-      <p>Combines fine-tuned language models, grounded nutrition data, meal tracking, memory, and food-image understanding.</p>
-      <p><code>Qwen</code> <code>LoRA/PEFT</code> <code>Python</code> <code>Streamlit</code> <code>Docker</code></p>
-      <p><a href="https://chinmaybitne.github.io/projects/nutriassist/">Case study ↗</a></p>
+      <h3>✦ <a href="https://github.com/ChinmayBitne/ASTRA-AI">ASTRA AI</a></h3>
+      <p><strong>Open-source, voice-first Windows desktop beta</strong></p>
+      <p>Uses Gemini Live and 50+ local tools for real-time conversation, desktop automation, system awareness, and multi-step workflows.</p>
+      <p><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Gemini Live</code> <code>Express</code></p>
+      <p><a href="https://github.com/ChinmayBitne/ASTRA-AI">Source ↗</a> · <a href="https://chinmaybitne.github.io/projects/astra/">Case study ↗</a></p>
     </td>
   </tr>
   <tr>
@@ -51,11 +51,11 @@ My work moves between **RAG and agentic AI**, **multimodal and computer-vision s
       <p><a href="https://chinmaybitne.github.io/projects/ldws/">Case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/ChinmayBitne/Emotional-Tone-Readability-Analyzer">Emotional Tone &amp; Readability</a></h3>
-      <p><strong>Multi-label NLP research application</strong></p>
-      <p>Pairs 27-emotion inference with readability measures to explore when linguistic complexity obscures emotional clarity.</p>
-      <p><code>RoBERTa</code> <code>PyTorch</code> <code>FastAPI</code> <code>GoEmotions</code> <code>Textstat</code></p>
-      <p><a href="https://chinmaybitne.github.io/projects/emotion/">Case study ↗</a></p>
+      <h3>🥗 <a href="https://github.com/ChinmayBitne/NutriAssist-AI">NutriAssist AI</a></h3>
+      <p><strong>Local-first multimodal nutrition assistant</strong></p>
+      <p>Combines fine-tuned language models, grounded nutrition data, meal tracking, memory, and food-image understanding.</p>
+      <p><code>Qwen</code> <code>LoRA/PEFT</code> <code>Python</code> <code>Streamlit</code> <code>Docker</code></p>
+      <p><a href="https://chinmaybitne.github.io/projects/nutriassist/">Case study ↗</a></p>
     </td>
   </tr>
 </table>
