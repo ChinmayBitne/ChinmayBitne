@@ -60,36 +60,20 @@ My work moves between **RAG and agentic AI**, **multimodal and computer-vision s
   </tr>
 </table>
 
-### Valentina — OTT AI Voice Assistant
-
-**Built in 2024 · Voice-agent prototype**
-
-A Vapi voice assistant connecting streaming-service FAQs and test-account context through two Make workflows. The recorded demo covers subscription questions, watch history, favorite genres, and support guidance; nine configured functions connect Google Sheets account lookup and Google Docs/OpenAI FAQ answers.
-
-`Vapi` `Make` `OpenAI` `Deepgram` `ElevenLabs` `Google Sheets` `Google Docs`
-
-[Configuration & workflows ↗](https://github.com/ChinmayBitne/OTT-Voice-Agent) · [Case study ↗](https://chinmaybitne.github.io/projects/ott-voice-agent/)
-
 ## GitHub analytics
 
 <div align="center">
 
 <a href="https://github.com/ChinmayBitne?tab=repositories">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChinmayBitne&amp;theme=github_dark" alt="Chinmay Bitne's public GitHub statistics" />
+  <img width="49%" src="./assets/analytics/stats.svg" alt="Overview of Chinmay Bitne's public, non-fork repositories" />
 </a>
 <a href="https://github.com/ChinmayBitne?tab=repositories">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayBitne&amp;theme=github_dark" alt="Languages across Chinmay Bitne's public repositories" />
-</a>
-
-<br />
-
-<a href="https://github.com/ChinmayBitne">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChinmayBitne&amp;theme=github_dark" alt="Chinmay Bitne's GitHub contribution timeline" />
+  <img width="49%" src="./assets/analytics/languages.svg" alt="Public repository count by primary language" />
 </a>
 
 </div>
 
-<sub>Public GitHub activity only. Language distribution reflects repository code volume, not proficiency.</sub>
+<sub>Repository-hosted snapshots refreshed daily. Counts cover owned public repositories, excluding forks. Languages reflect repository counts by primary language, not proficiency or code volume.</sub>
 
 ## How I work
 
