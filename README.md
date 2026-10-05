@@ -60,6 +60,16 @@ My work moves between **RAG and agentic AI**, **multimodal and computer-vision s
   </tr>
 </table>
 
+### Valentina — OTT AI Voice Assistant
+
+**Built in 2024 · Voice-agent prototype**
+
+A Vapi voice assistant connecting streaming-service FAQs and test-account context through two Make workflows. The recorded demo covers subscription questions, watch history, favorite genres, and support guidance; nine configured functions connect Google Sheets account lookup and Google Docs/OpenAI FAQ answers.
+
+`Vapi` `Make` `OpenAI` `Deepgram` `ElevenLabs` `Google Sheets` `Google Docs`
+
+[Configuration & workflows ↗](https://github.com/ChinmayBitne/OTT-Voice-Agent) · [Case study ↗](https://chinmaybitne.github.io/projects/ott-voice-agent/)
+
 ## GitHub analytics
 
 <div align="center">
