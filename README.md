@@ -6,7 +6,6 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://chinmaybitne.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaybitne/)
 [![Email](https://img.shields.io/badge/Email-Start_a_conversation-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaybitne82@gmail.com)
 
@@ -114,7 +113,7 @@ My work moves between **RAG and agentic AI**, **multimodal and computer-vision s
 
 ### Let’s build something useful.
 
-[View the portfolio](https://chinmaybitne.github.io/) · [Explore the repositories](https://github.com/ChinmayBitne?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/chinmaybitne/)
+[Explore the repositories](https://github.com/ChinmayBitne?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/chinmaybitne/)
 
 <sub>Ground the system · Measure the behavior · Ship with intent</sub>
 
